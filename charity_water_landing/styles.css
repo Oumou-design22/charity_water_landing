@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #0077cc;
+    color: white;
+    padding: 2rem;
+}
+
+.image-section {
+    margin: 2rem;
+}
+
+.image-section img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: #0077cc;
+    color: white;
+    padding: 1rem;
+    margin-top: 2rem;
+}
